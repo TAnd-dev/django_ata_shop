@@ -257,3 +257,7 @@ ul.errorlist {
 .order-info span {
     float: right;
 }
+
+.neg {
+    color: #dc1616;
+}
