@@ -261,3 +261,34 @@ ul.errorlist {
 .neg {
     color: #dc1616;
 }
+
+.recommendations {
+    clear: both;
+}
+
+.recommendations div {
+    float: left;
+}
+
+.recommendations img {
+    width: 200px;
+}
+
+.recommendations p {
+    clear: both;
+}
+
+.recommendations.cart {
+    width: 60%;
+    float: left;
+    overflow: auto;
+}
+
+.recommendations h3{
+    margin-top: 0;
+}
+
+.recommendations .cart img{
+    width: 120px;
+}
+
